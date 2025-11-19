@@ -1,0 +1,24 @@
+[
+  {
+    "firstname": "Mahmudul",
+    "lastname": "Chowdhury",
+    "totalprice": 150,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2025-11-18",
+      "checkout": "2025-11-25"
+    },
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Alice",
+    "lastname": "Smith",
+    "totalprice": 200,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2025-12-01",
+      "checkout": "2025-12-07"
+    },
+    "additionalneeds": "Lunch"
+  }
+]
