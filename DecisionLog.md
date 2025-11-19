@@ -1,4 +1,4 @@
-# AAA Life — SDET Technical Assessment 2
+# 
 ## Decision Log
 
 ### 1. Scope Interpretation & Timeboxing
